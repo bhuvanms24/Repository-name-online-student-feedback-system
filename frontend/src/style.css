@@ -1,0 +1,9 @@
+body{font-family:system-ui,sans-serif;background:#f4f6fb;margin:0;color:#222}
+nav{background:#1e3a8a;color:#fff;padding:12px 24px;display:flex;justify-content:space-between;align-items:center}
+main{max-width:760px;margin:24px auto;padding:0 16px}
+.card{background:#fff;border-radius:10px;padding:18px;margin-bottom:14px;box-shadow:0 1px 4px #0002}
+input,select,textarea{width:100%;padding:9px;margin:6px 0 12px;border:1px solid #ccc;border-radius:6px;box-sizing:border-box}
+button{background:#1e3a8a;color:#fff;border:0;padding:9px 16px;border-radius:6px;cursor:pointer;margin-right:6px}
+button.link{background:none;color:#1e3a8a;text-decoration:underline;padding:0}
+.star{font-size:28px;cursor:pointer;color:#ccc}.star.on{color:#f5a623}
+.err{color:#c0392b}.ok{color:#1e8449}label.row{display:flex;gap:8px;align-items:center}label.row input{width:auto;margin:0}
